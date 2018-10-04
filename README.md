@@ -1,1 +1,1 @@
-# SmartContact
+# SmartContract
