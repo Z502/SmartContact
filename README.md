@@ -2,6 +2,8 @@
 
 Z502 is ERC20 ethereum token.
 
+https://etherscan.io/token/0x2cd9324ba13b77554592d453e6364086fbba446a
+
 *total amount of tokens*
 
 `function totalSupply() constant returns (uint256 supply)`
